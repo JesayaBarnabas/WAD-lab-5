@@ -1016,7 +1016,7 @@ input:checked + .slider-round:before {
 
 .panel-toggle {
   position: fixed;
-  top: 20px;
+  top: 21px;
   right: 20px;
   z-index: 1001;
   padding: 10px 15px;
